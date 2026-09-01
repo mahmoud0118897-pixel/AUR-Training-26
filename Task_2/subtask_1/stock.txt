@@ -1,0 +1,5 @@
+banana,5
+apple,2
+mango,7
+kiwi,10
+orange,5
